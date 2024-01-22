@@ -1,4 +1,4 @@
-# Prakriti-2
+# Prakriti-2 (Prediction of Prakriti based on predefined questions!)
 Install These Liabraries:
 numpy,
 pandas,
